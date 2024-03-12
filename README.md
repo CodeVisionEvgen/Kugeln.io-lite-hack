@@ -20,6 +20,8 @@ Lite hack for game https://kugeln.io
 
 8. Enjoy hack :)
 
+Example
+![alt text](https://github.com/CodeVisionEvgen/Kugeln.io-lite-hack/blob/main/example.png)
 
 
 ## Use
